@@ -1,0 +1,6 @@
+@DotNetCore8_MiddleWareExample_HostAddress = http://localhost:5067
+
+GET {{DotNetCore8_MiddleWareExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
